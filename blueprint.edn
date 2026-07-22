@@ -2,4 +2,5 @@
  :company/lei "F1OF2ZSX47CR0BCWA982"
  :company/jurisdiction "BM"
  :company/website "https://www.carnival.com"
- :company/ticker "CCL (NYSE)"}
+ :company/ticker "CCL (NYSE)"
+ :itonami.blueprint/maturity :implemented}
